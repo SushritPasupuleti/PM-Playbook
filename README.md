@@ -50,6 +50,10 @@ Work on these resources and references.
 
 - Create a backlog
 
+**Notes**:
+
+This approach can be a good way to come up with new product ideas that may be refined into a viable product after a single pass, however the engineering possibilities aren't taken into account initially, so this strategy is situational to the kind of organization you are in, the timeline and the resources available.
+
 ## Tools
 
 - Jira + Confluence + GitHub Issues Integration
