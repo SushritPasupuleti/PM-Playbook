@@ -60,3 +60,7 @@ This approach can be a good way to come up with new product ideas that may be re
 
 - <u>Asana</u> (**For task assignment and tracking ??**)
 
+- Time Tracking with [gtm](https://github.com/git-time-metric/gtm#install-the-latest-gtm-release)
+
+- Commit hooks with [husky](https://github.com/typicode/husky)
+
